@@ -1,5 +1,4 @@
 from lookbehindpool import *
-from poolitem import *
 
 class Sma:
         def __init__(self, period):        
